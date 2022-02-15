@@ -1,1 +1,2 @@
 # Clustering-Countries
+I did Clustering in Python using Matplotlib to plot the location of all countries in a graph. Using their respective latitudes and longitudes, I clustered the countries into 7. The graph shows the location of the countries per continent.
